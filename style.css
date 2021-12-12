@@ -67,6 +67,7 @@ color: hsl(217, 19%, 35%);
     margin-right: 15px;
     width: 35px;
     height: 35px;
+    cursor: pointer;
   }
   
   .item4 img{
@@ -77,6 +78,7 @@ color: hsl(217, 19%, 35%);
     display: flex;
     flex-direction: column;
     line-height: 18px;
+    cursor: pointer;  
   }
 
   .first {
